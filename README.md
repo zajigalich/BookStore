@@ -97,7 +97,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 	
 - Was the code ready to run after generation? What did you have to change to make it usable?
  
-	No, it wasn't. I had to change test configuration file `CustomWebApplicationFactory`
+	No, it wasn't. I had to change test configuration file `TestDbContextFactory`
 
 - Which challenges did you face during completion of the task?
  
